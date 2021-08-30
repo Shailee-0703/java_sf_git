@@ -1,0 +1,6 @@
+ignore files 
+*.class
+*.exe
+*.jar
+/bin/
+some specific files you ignore also present here in this folder
