@@ -3,11 +3,11 @@ WELCOME TO GIT!!!
 Hello world.......
 
 <<<<<<< HEAD
-change- to check the status
+change-1 to check the status
 
-change -diff command
+change -2diff command
 
-change- to fix the bug1
+change-3 to fix the bug1
 
 change for WI4 by team mate
 =======
@@ -19,3 +19,5 @@ change to fix the bug1.
 
 change to fix bug2.
 >>>>>>> bug2
+
+change by teammate WI5
